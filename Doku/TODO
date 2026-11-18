@@ -4,9 +4,9 @@ Meilenstein     - Marten  Done
 Personas        - Hendrik Done
 
 Bis 17.11
-Backend         - Klassisch (Canny Kanten/Megapixel) - Marten
-Anforderungen   - Hendrik
-Doku            - Hendrik
+Backend         - Klassisch (Canny Kanten/Megapixel) - Marten       Done
+Anforderungen   - Hendrik Done
+Doku            - Hendrik Done
 
 Präsi 18.11
 - Ziel - Marten
@@ -18,10 +18,10 @@ Präsi 18.11
 - Klassisches Verfahren - Marten
 - Ausblick - Marten 
 
+Bis 2.12 
+-	Backend – Paper - Marten
+-	Backend – GAN-(Für komplettes Bild/Gesicht) - Hendrik
 
 
 Backlog
 -	Frontend / Schnittstellen  
--	Backend – Paper
--	Backend – GAN-(Für komplettes Bild/Gesicht)
-
